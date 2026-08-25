@@ -1,45 +1,78 @@
-# Hi, I'm Mohammad Ashraf Alo👋
-
-```text
-                                       mdashraf-lang ----------------------------------
-           %%%%##W                     . OS: ............. Windows 11, Android 14, Linux
-         %@@@@&&&%%WM                  . Uptime: ................. 24 years, 5 months
-        &@@@&%##MmW%Mk                 . Host: ........................ Your Company
-        @@@%*kx|({;,{*                 . Kernel: ................. Software Developer
-        @@@#***k|({;`;                 . IDE: ............... VSCode , Android studio
-        W#&mk*m*k|:j.`                 .
-        mMWmkj|x*k;:.                  . Languages.Programming: . Java, Python, C++
-         *WWm**MM*({,                  . Languages.Computer: . HTML, CSS, JSON, SQL
-          mW%#Mmkk{,,                  . Languages.Real: ......... English, Arabic
-         &jjmW###Wj                    .
-       %&&&M{:;((,,,                   . Hobbies.Software: ....... Web Dev, Automation
-   #####%%%%%k. ;j,;*MWM               . Hobbies.Hardware: .. PC Building, Electronics
-&&&%%###W%%###M{*#W.m MMMm W
-&&&&&%#WWW###WWW;k#;,#mMMm M#          - Contact -----------------------------------------
-&&&&&&%%WM####MMWkWm;* MMm MWW         . Email.Personal: ......... mdashraf9242@gmail.com
-&&@&&%%#&WW####MMMMm k#MWm MW#M        . Email.Work: ......... mdashraf@ankaa.om
-&&@&&&%W#&WW##W#WMWM  %mMm  %#M        . LinkedIn: .................. (https://www.linkedin.com/in/asali1/)
-&&@@&&%%W#%W##WW#MMWM%%mM   %%#        
-&&@@&&%#WW#%####W#WM#%#mm mW&%#W
- &@@@&%#M::x#%%%#W%W#%%MMmW%&%%WM      - GitHub Stats ------------------------------------
-  @@@@&%%Wj,{#&%%#%%#%#Mx;:.{W%##WM    . Repos: .... 00 {Contributed: 00} | Stars: .. 00
-   @@@@&&%%#%Mmm  ###     `.`kWMmMWW   . Commits: ........... 0,000 | Followers: ... 00
-   @@@@@@&&&#WMMMMWWWmmmmm{;WWWMM  W   . Lines of Code on GitHub: ............. 000,000
-    @@@@@&&%#WWWW##WWWWWWWmWWW##WMm
-   &&@@@@@&%%#%%%%#WMm%####WMW#WWM
-   &&@@@@@@@@&&&&&&%m;#W#####
-   &@@@@@@@@@&&%%%%&&&%#Wm
-   &@@@@@@@&&&&%########W
-   @@@@@@@@&&&&%########%
-  @@@@@@@@@@&&&%########@%
-  @@@@@@@@@@&&&%####%##%@@
- @@@@@@@@@@@&&&%###%%%%#&@%
-```
-
-<!--
-HOW TO USE:
-1. Create a repo named exactly the same as your GitHub username
-2. Put this file in it as README.md
-3. Replace every placeholder above (name, emails, languages, stats, etc.)
-4. GitHub renders the code block in monospace so the art stays aligned
--->
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxjjjjjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxj!!::::::::::::jjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxj!:         : ::: :::jjjjjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxj!                   :::::jjjjjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx):                  :     :::j:jxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxjj:                           :::jxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx):                    ::___:   ::jxjaxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`           :._jjjj|jxxxxxxxxj.::jjjjjoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxj          :jjjjjxxxxxxoooooooogg;jjjjuoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxj          :jjjxxxxxxxxooooooo@@@@g/jjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          :jjjjxxxxxxoooooooo@@@@@@pxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|         :jjjjxxxxxxoooooooo@@@@@@pxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|        .jjjjjjj:::jjxxxoooxxjjxo@@xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|      .jjjjjjjxxxxxxxxxxoooxxxoo@pg@pxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxc_.    ::jjjyjj::jxjjjxxxo@oxjj|og@g@@wxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxj:jj:.  jjjjxwjjjjjxjjjusxo@@guxo@@@@@|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxj:jj:: |jjxxxxxxxxxxxxxxxxxo@@@@@@@@@@bxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxjj::|::jjjjxxxxxoxxxcjjjxxx@@gQo@@@@|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxjjj:::jjjjjxxxxxxxxjjx=:jxox@oo@@@@|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxjjjj:::jjjjjxxxxxxxjjjjxa$Q@@oo@@@wxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxjj::::::jjjjjjj:j:j::jjuxggxag@@|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxj:::::jjjjjjj:.::::jjjxggggj|@@|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxjj:::::::jjjjjjjjjjjjoao@@go@pxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxjjj:::::::jjjjjjjjxxuugo@@@@\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxujjj::   ::::::jjxxxxxo@ooowxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxiog;jj::::      ::::::j1xxjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx):'/o@g;jj:::::::    :::::uyxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx):  :/qo@ogjjjj:jjjjj__jug@@@xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxj'      '/o@o@ogujjjjjxxxo@@@p@yxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxj=!:: :      ://o@@@@@@gpxooo@@@@q@|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx=:::    : :     :://@@@@@@@@@@o@@mq@@|ixjjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxj=!:::::::  :: : ::: :::/o@@@@@@@@@gug@@@@:ixujjjjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx==!:::::::::::: ::::::::::::://@@@@@@Vnjjxx@@@|jxxxxjj:jjjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxj!::::::::::::::::::: :  ::::::::::/@@@\::::jjxoyQ@:ixxjxj:::jjjjjjjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx)!': :::::::::::::::::::::: ::::::::::::/@gu;:::::jxgg@|jxxxjjjj:::jjjjjjjjj1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxj`           :::::::::::::::: ::::::::::::://@og/::::||@@|||xxjjjjjj::jjjjjjjj;!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx:             :::::::::::::::::::::::::::::://@@oo::::x@@g|:jxjjjj:jj:jjjjjjjjj;!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx|            :   ::::::j::::::::::::::::::j::::/@@o::::j|@@||:jjjjjj:jjjjjjjjjjjj:jxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx:                  :::::jj:::::::::::::::j:jj:::/@|::::jxg@@|:jjjjjj::jjjjjxjj::j::xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx             : :     :: :jjj::::::::::::j:jjjj:::/g::::jxxo@|::jjjjjj:jjjjjxxjj::j:jxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx:               ::::     :jjj::::::::::::jjjjjj:::|;:::jjxxo@|:jjjjj::jjjjjxxjj::jjjjjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx:             :    ::::   :jjj:::::::::::::jjjjj::jQj::jjjxxog::jjjjj::jjjjxxxjj:j::jjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx:               :::::  ::  :jjj:::::::::::::jjjjj::/cjjjjjjxxq|:jjjjj::jjjjxxjjjjj::jjjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx|             :  : ::::::   :jj::::::::::::::jjjjj::jjjjjjjxxx| jjjjj::jjjjxjjjjjj:::jjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx|               : ::::::::  ::jj:::::::::::::::jjjj::jjjjjjjxxx::jjjj::jjjjjjjjjjc::::jxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx:               : ::::::::  ::jj:::::::::::::::jjjj:::jjjjjxxj::jjjj::jjjjjjjjjx|:::jjj)jxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+@@@@@@@@@@@@@@@|            :     :::::::.  :::j:::::::::::::::jjj::j:jjjjxxj :jjjj::jjjjjjjjjj|:::::jj|@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+xxxxxxxxxxxxxxx|                :  :::::j:   :::::::::::::::::::jjj::j::jjjj|  jjjjj:jjjjjjjjjj: :::::jxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx:                 :   ::jj:  :::::::::::::::::::jjjj::j::jjj : :jjjjjjjjjjjjjjj: :::::jxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx.                ::::: :::j:. :::::::::::::::::::jjj::j::jj: : :jjj:jjjjjjjjjj: ::: :jjjjjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx|                   ::::: ::: ::::::::::::::::::::jjj::j:::: j :jjjjjjjjjjjjjj:   :::jjjjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx;               : :::::::: :: :::::::::::::::::::'j:::j::: :: :jjjjjjjjjjjjj::  :::::::jjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx|             : :::::::j:u_:: :::::::::::::::::: :j::j:: ::: :jjjjjjjjjjj:::   :::::::jjjjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx.             :::::::|qgg@@//::::::::::::::::::: :j:::: ::: :jjjjjjjjjj:::   :::::::j:jjjjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx/              ::::: |@ooo@@/: ::::::::::::::::  :j:: :::  :jjjjjjjjj:::    : : :::::jjjjjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx/             : ::::!/@@oo@@g/: : : :::::::::::  :::: :: ::j:j:jjjj::::      : ::::::jjjjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx/             :::::::jvq@@@@@p : : : :::::::::: :::: :: :::j:jjj;__--gg-/.  : :::::::::jjjjxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxc/              : :::::[@@@@@@/.   :  :::::::::  :::.:___jjjjjU@@@@@@@@@@g/. : :::::::::jjjxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx/.              : :::::|VQoo@@|.:::::: :::::  ::::::jxjjxxxxxxx/@@@@@@@@@@p:  :::::::j:::jxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx|                 :::::::|'r:jjjjjjjjjjjjjj:  j:::jxxjjjxxxxxxjq@@@@@@@@@||::::jjjjjjj:::jxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx                  :   : : : jjjjjjjjjjjjjjj: j:::jxxjjjxjjjjjjjq@@@@@@@@|:::jjjjjjjjjjj::|xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx;                   :: ::  |::jjjjjjjjjjjjj::j:::jjjjjjjjjjjjjj|@@@@o@\\::jjjjjjjjjjjjjj::|xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxx|                  :  :  :j:::jjjjjjjjjj:::jj:::jjjjjjjjjjjjjjj|@@@=!::::::::jjjjjjjjjjj::jxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxj                 :  ::  j::::::j:jjjjj:::j::::jjjjjjjjjjjjjjjj|@@@:::::::::::::jjjjjjjjj:xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx|                :  :  :j::::j::j:::::::j::::jj::jjj:jjjj:j:j:|@\\::j::::::::::::jjjjjjjjxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx|                   : ::::::::::::::::::::::j:::::::::::::::::):::j::j::::!jjjjjjjjjjjjjxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx                   :::::::::::::::::::::::::::::::::::::::::jj:::jj::::::::::jjjjjjjjjjxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx|                    :::::::::::::::::::::::::::::::::::::::::j:::jjj::::::::::::jjjjjxxxxxxxxxxxxxxxxxxxxxxxxxxx
+─ mdashraf92@github ──────────────────────────────────────
+. Uptime: .............................. 3 months, 8 days
+. Languages: ................................. TypeScript
+─ Contact ────────────────────────────────────────────────
+. GitHub: ......................... github.com/mdashraf92
+─ GitHub Stats ───────────────────────────────────────────
+. Repos: ............... 2 | . Stars: ............... 0
+. Commits: ............. 3 | . Followers: ........... 0
